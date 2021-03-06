@@ -1,0 +1,2 @@
+# myeoschroot
+dialog chroot script
